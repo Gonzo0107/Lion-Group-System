@@ -1,0 +1,86 @@
+body{
+
+	background-image: url(http://localhost/lion_group_system/Login/assets/img/tarred.jpeg);
+	height: auto;
+  	font-family: arial;
+}
+
+#login{
+
+	border:white 0.1px solid;
+	height: 550px;	
+	width: 400px;
+	position: absolute;
+	top: 40px; left: 670px;
+	background-color: white;
+
+}
+
+#imagen{
+	border: #0C52BF 0.1px solid;
+	height: 550px;	
+	width: 400px;
+	margin-left: 100px;
+
+	position: absolute;
+	top: 40px; left: 140px;
+	background-color: #0C52BF;
+	
+}
+
+#lion{
+	height: 150px;	
+	width: 150px;
+	position: relative;
+	top: 180px; 
+
+}
+
+#p{
+	color: white;
+	position: relative;
+	top: 170px; 
+}
+
+h3{
+	position: relative;
+	top: 90px; 
+}
+
+
+#us1{
+	position: absolute;
+    right: 200px; top: 200px;
+}
+
+#us{
+	position: relative;
+	top: 200px; 
+}
+
+#con1{
+	position: relative;
+	top: 210px; left: 70px;
+}
+
+#con{
+	position: relative;
+	top: 250px; right: 40px;
+}
+
+#ic{
+	position: relative;
+	top: 280px; 
+}
+
+#uwu{
+	position: relative;
+	top: 160px; left: 20px;
+}
+#uwu1{
+	position: relative;
+	top: 210px; left: 60px;
+}
+
+
+
